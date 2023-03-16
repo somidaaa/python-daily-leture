@@ -9,5 +9,5 @@ a link:
 
 1. URL : https://github.com/somidaaa/python-daily-leture/edit/main/README.md
 2. <a href='URL'>https://github.com/somidaaa/python-daily-leture/edit/main/README.md</a>
-
+[URL](https://github.com/somidaaa/python-daily-leture/edit/main/README.md)
 # day2
