@@ -9,5 +9,5 @@ a link:
 
 1. URL : https://github.com/somidaaa/python-daily-leture/blob/main/test.md
 2. [URL](https://github.com/somidaaa/python-daily-leture/blob/main/test.md)
-3. 
+
 # day2
