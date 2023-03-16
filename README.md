@@ -7,7 +7,7 @@
 a link:
  - 이미지테스트 : <a href='test.md'>test.md</a>
 
-1. URL : https://github.com/somidaaa/python-daily-leture/edit/main/README.md
-2. [URL](https://github.com/somidaaa/python-daily-leture/edit/main/README.md)
+1. URL : https://github.com/somidaaa/python-daily-leture/blob/main/test.md
+2. [URL](https://github.com/somidaaa/python-daily-leture/blob/main/test.md)
 3. 
 # day2
